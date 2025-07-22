@@ -2,7 +2,7 @@ import discord
 import asyncio
 from breakout_bot import scan_market, check_one
 
-TOKEN = "MTM5NzIwMjY1MzM2NDM1OTIwMA.GOS7sC.31tkL3NsIw5dgzfufVNQGX2XMM6eQ7I2OhqBA4"
+TOKEN = "MTM5NzIwMjY1MzM2NDM1OTIwMA.G5xEdO.hWU4tJreftm1l_y2u8wVIugoFySOC8ozKbB1rM"
 CHANNEL_ID = 1397092859991035904  # Thay bằng channel ID bạn muốn gửi tín hiệu
 
 intents = discord.Intents.default()
